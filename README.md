@@ -51,11 +51,6 @@ This project successfully implements the critical security and concurrency proto
 
 To run this project, you will need to configure the connection to your SAP Gateway system.
 
-1.  **Configure Backend:** In the `/backend` directory, rename the `config.properties.example` file to `config.properties`.
-2.  **Edit Credentials:** Open the `config.properties` file and enter your SAP system's hostname, username, and password. This file is included in `.gitignore` and will not be committed to the repository.
-3.  **Run the Server:** Compile and run the Java backend server.
-4.  **Launch Frontend:** Open the `index.html` file from the `/frontend` directory in your web browser.
-
 ## 6. Disclaimer
 
 This project is a proof-of-concept and is intended for demonstration and educational purposes only. It is not intended for use in a production environment without further development, including enhanced error handling, logging, and security hardening.
