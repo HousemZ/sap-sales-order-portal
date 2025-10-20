@@ -17,9 +17,9 @@ public class ApiHandler implements HttpHandler {
 
 
     public ApiHandler() {
-        String serviceUrl = "http://srvappwa1.wynsys.local:8800/sap/opu/odata/sap/API_SALES_ORDER_SRV/";
+        String serviceUrl = "http://********************************/sap/opu/odata/sap/API_SALES_ORDER_SRV/";
         String username = "HZIDANI";
-        String password = "@Azerty123";
+        String password = "****************";
         this.apiClient = new ApiClient(serviceUrl, username, password);
     }
 
@@ -161,4 +161,5 @@ public class ApiHandler implements HttpHandler {
             os.write(responseBytes);
         }
     }
+
 }
