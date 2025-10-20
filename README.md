@@ -16,7 +16,7 @@ This prototype was developed to demonstrate a **"Clean Core" extension strategy*
 
 ### Application Demo
 
-![Application Demo](docs/app-demo.gif)
+![Application Demo](app-demo.gif)
 
 ## 2. Technology Stack
 
