@@ -49,7 +49,7 @@ This project successfully implements the critical security and concurrency proto
 
 ## 5. Setup and Configuration
 
-To run this project, you will need to configure the connection to your SAP Gateway system.
+To run this project, you will need to configure the connection to your SAP system.
 
 ## 6. Disclaimer
 
