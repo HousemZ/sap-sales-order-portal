@@ -14,10 +14,6 @@ The architecture follows a modern, decoupled approach, with a pure Java backend 
 
 This prototype was developed to demonstrate a **"Clean Core" extension strategy**, showing how to build modern, targeted user experiences on top of a standard SAP backend without direct system modifications, fully aligning with the modern S/4HANA architecture principles.
 
-### Application Demo
-
-![Application Demo](app-demo.gif)
-
 ## 2. Technology Stack
 
 * **Backend:** Java (using the built-in `com.sun.net.httpserver` and `java.net.http.HttpClient`)
